@@ -5,6 +5,5 @@
 
 ## DEveloper
 * KyooChan  LEE
-  * hongik (2013 ~)
+  * hongik uni(2013 ~)
   * SSAFY
-  
